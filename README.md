@@ -1,7 +1,7 @@
 
 
 ### Description of Project:
-Given a security event create a plan to improve your fictional company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). 
+Given a security event  for a fictional company I created a plan to improve the company’s network security, by following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. By applying the CSF to create this incident report I can demonstrate a proactive approach to security, improve communication and transparency with the company's stakeholders, and improve security practices within the organization. 
 
 # Incident Report Analysis
 
